@@ -374,6 +374,12 @@ body {
     flex-basis: 100%;
     margin-bottom: 30px;
   }
+  .project-image {
+    margin-left: 2px;
+  }
+  .project-text {
+    margin-left: 2px;
+  }
   .project-paragraph {
     font-size: 14px;
   }
