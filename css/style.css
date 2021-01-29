@@ -141,6 +141,10 @@ body {
   margin: 0;
   margin-bottom: 41px;
 }
+.project-site-1{
+  text-decoration: none;
+  color:#fff;
+}
 .project-time,
 .project-cost {
   flex-basis: 50%;
